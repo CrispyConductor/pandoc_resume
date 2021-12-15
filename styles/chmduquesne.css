@@ -92,4 +92,8 @@ hr {
 table {
     width: 100%;
 }
+
+code {
+    font-size: 12px;
+}
 </style>
