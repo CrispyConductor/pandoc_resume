@@ -41,7 +41,10 @@ rtf: init
 		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.rtf; \
 	done
 
-init: dir version
+combine:
+	cat $(IN_DIR)/coverletter.md $(IN_DIR)/resume.md > $(IN_DIR)/resume_and_cover.md
+
+init: combine dir version
 
 dir:
 	mkdir -p $(OUT_DIR)

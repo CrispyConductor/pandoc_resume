@@ -1,5 +1,7 @@
 # Chris Breneman
 
+> crispy@cluenet.org
+
 ----
 
 > Innovation and logic are the most important tools to solve a problem. Every problem has an optimal solution which best incorporates all factors. Every solution can be devised from components. And every component is another opportunity for innovation and logic.
@@ -9,14 +11,15 @@
 
 ## Recent Work Experience
 
-2013-Present
+2013-Now
 :   **Senior Architect at Zipscene, NCR**
 
     Designed and led building of various large-scale data platforms and services:
 
     * Real-time, distributed, large-scale data warehousing software able to link and aggregate data across multiple dimensions in real time
+    * Platform handles complex real-time operations on terabytes of data
     * Deep-learning-based consumer behavior modeling framework
-    * Custom GIS platforms allowing real-time indexing and lookups of spatial-temporal data including national weather conditions and nation-wide events
+    * Custom GIS platforms allowing real-time indexing and lookups of spatial-temporal data including national weather conditions and nationwide events
     * Machine-learning automatic menu item tagging classifier
     * Developed custom cohort clustering algorithm for working with very large and wide datasets
     * Distributed locking coordination framework
@@ -26,7 +29,7 @@
     Zipscene's technology and team was acquired by NCR in 2018.
 
 2017-2018
-:   **Contract Data Developer at PatientPoint**
+:   **Contract Data Engineer at PatientPoint**
 
     Contract developer working to improve data infrastructure and reporting, with a focus on "big-data-scale" data ETLs and
     reporting. Worked primarily with Microsoft SQL Server, SSIS, SSRS, and Oracle SQL.
@@ -42,7 +45,7 @@
 2011-2012
 :   **Backend Architect at Giftiki**
 
-    Designed, architected, and lead the building of a distributed backend platform for group financial transactions integrated with social media.
+    Designed, architected, and led the building of a distributed backend platform for group financial transactions integrated with social media.
 
 
 ## Other Major Non-Work Projects
@@ -71,7 +74,7 @@ My main driver is the ability to innovate, solve unique problems, and build cool
 
 I'm a huge proponent of using the right tool for a job.  With the variety of projects I've worked on, I've had the opportunity to play with a lot of different tools in different areas.  For older projects, I may be rusty on some of the specifics, but retaining a deep understanding of the underlying concepts makes it easy to reason about and pick back up a given technology when it becomes prudent.  My salient categories of experience are:
 
-* High-level programming: Recent extensive experience with Node.JS, Python3.  Older experience with PHP, Lua, and others.  Favorite overall might be Befunge.
+* High-level programming: Recent extensive experience with Node.JS, Python3.  Older experience with PHP, Lua, and others.  Significant experience with Java, but has been several years.  Favorite overall might be Befunge.
 * Low-level programming: Mostly older experience writing optimized and UNIX network applications in C, C++.  Written plenty of assembly and C for AVR microcontrollers.  Had a job for a few years reverse-engineering x86 assembly.  A bit of JTAG ARM debugging and patching.
 * Databases: Extensive work with both SQL (multiple dialects) and NoSQL (MongoDB, Redis, various key/value stores) databases.  Have designed data architectures encompassing relational, nonrelational, OLAP, OLTP, document-based scenarios.
 * Systems (UNIX/Linux): Extensive experience with Linux systems.  Linux-user, command-line-lover, etc.  Some of my favorite tools are neovim and tmux, with a good command over commands.  Years ago set up and administered a world-wide hobbyist shell server network incorporating LDAP, Kerberos, network filesystems, and a custom-written mesh VPN.
